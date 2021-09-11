@@ -27,11 +27,7 @@
 </a><a href='https://vuejs.org/' target='_blank'><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
 </p>
 
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benjix06&show_icons=true&theme=radical)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=benjix06&count_private=true&show_icons=true&theme=radical)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=benjix06&count_private=true&show_icons=true&theme=radical"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjix06&show_icons=true&theme=radical" />
 
 ## 📫 Contact me:
 <div align='center'>
