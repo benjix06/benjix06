@@ -37,9 +37,7 @@
         target="_blank"
     >
         <img
-            class="items"
             src="https://img.icons8.com/color/48/000000/linkedin.png"
-            alt="linkedin"
         />
     </a>
     <a
@@ -47,9 +45,7 @@
         target="_blank"
     >
         <img
-            class="items"
             src="https://img.icons8.com/color/48/000000/youtube-music.png"
-            alt="youtube"
         />
     </a>
 </div>
