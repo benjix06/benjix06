@@ -1,7 +1,6 @@
 <h1 align="center" style='color:rgb(33, 210, 149)'>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <strong style='color:yellow'>Benjamin Nguyen</strong></h1>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D4F733&size=21&lines=Welcome+to+my+page!;It's+good+to+see+you+here.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75CC5&lines=Welcome+to+my+page!;It's+good+to+see+you+here.)](https://git.io/typing-svg)
 
 ## 🙋‍♂️ About Me
 🌱 Enthusiastic intern eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. A clear understanding of tasks and communication with training in programming. Motivated to learn, grow, and excel in the technology field.</p>
