@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75CC5&lines=Welcome+to+my+page!;It's+good+to+see+you+here.)](https://git.io/typing-svg)
 
 ## 🙋‍♂️ About Me
-🌱 Enthusiastic intern eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. A clear understanding of tasks and communication with training in programming. Motivated to learn, grow, and excel in the technology field.</p>
+🌱 Enthusiastic intern eager to contribute to team success through hard work, attention to detail with an excellent organizational skills. A clear understanding of tasks and communication with training in programming. Motivated to learn, grow, and excel in the technology field.</p>
 
 
 ## 🚀 Languages and Tools:
